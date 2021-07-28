@@ -1,0 +1,30 @@
+
+body {
+
+	font-family: sans-serif;
+
+}
+
+#shape {
+
+	background-color: red;
+	height: 300px;
+	width: 300px;
+	position: relative;
+	display: none;
+
+}
+
+.bold {
+
+	font-weight: bold;
+
+}
+
+#heading {
+
+	margin-left: 450px;
+	color: violet;
+	text-decoration: underline;
+
+}
